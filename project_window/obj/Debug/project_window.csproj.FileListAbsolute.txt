@@ -1,0 +1,34 @@
+C:\Users\17290\Desktop\project_window\project_window\bin\Debug\project_window.exe.config
+C:\Users\17290\Desktop\project_window\project_window\bin\Debug\project_window.exe
+C:\Users\17290\Desktop\project_window\project_window\bin\Debug\project_window.pdb
+C:\Users\17290\Desktop\project_window\project_window\obj\Debug\project_window.csprojAssemblyReference.cache
+C:\Users\17290\Desktop\project_window\project_window\obj\Debug\project_window.Properties.Resources.resources
+C:\Users\17290\Desktop\project_window\project_window\obj\Debug\project_window.csproj.GenerateResource.cache
+C:\Users\17290\Desktop\project_window\project_window\obj\Debug\project_window.csproj.CoreCompileInputs.cache
+C:\Users\17290\Desktop\project_window\project_window\obj\Debug\project_window.exe
+C:\Users\17290\Desktop\project_window\project_window\obj\Debug\project_window.pdb
+C:\Users\17290\Desktop\project_window\project_window\obj\Debug\project_window.setting.resources
+C:\Users\17290\Desktop\project_window\project_window\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\17290\Desktop\project_window\project_window\bin\Debug\WebDriver.dll
+C:\Users\17290\Desktop\project_window\project_window\bin\Debug\WebDriver.Support.dll
+C:\Users\17290\Desktop\project_window\project_window\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\17290\Desktop\project_window\project_window\bin\Debug\WebDriver.xml
+C:\Users\17290\Desktop\project_window\project_window\bin\Debug\WebDriver.Support.xml
+C:\Users\17290\Desktop\project_window\project_window\obj\Debug\project_window.csproj.CopyComplete
+E:\C #应用\project_window\project_window\bin\Debug\project_window.exe.config
+E:\C #应用\project_window\project_window\bin\Debug\project_window.exe
+E:\C #应用\project_window\project_window\bin\Debug\project_window.pdb
+E:\C #应用\project_window\project_window\bin\Debug\ThoughtWorks.Selenium.Core.dll
+E:\C #应用\project_window\project_window\bin\Debug\WebDriver.dll
+E:\C #应用\project_window\project_window\bin\Debug\WebDriver.Support.dll
+E:\C #应用\project_window\project_window\bin\Debug\ThoughtWorks.Selenium.Core.xml
+E:\C #应用\project_window\project_window\bin\Debug\WebDriver.xml
+E:\C #应用\project_window\project_window\bin\Debug\WebDriver.Support.xml
+E:\C #应用\project_window\project_window\obj\Debug\project_window.csprojAssemblyReference.cache
+E:\C #应用\project_window\project_window\obj\Debug\project_window.setting.resources
+E:\C #应用\project_window\project_window\obj\Debug\project_window.Properties.Resources.resources
+E:\C #应用\project_window\project_window\obj\Debug\project_window.csproj.GenerateResource.cache
+E:\C #应用\project_window\project_window\obj\Debug\project_window.csproj.CoreCompileInputs.cache
+E:\C #应用\project_window\project_window\obj\Debug\project_window.csproj.CopyComplete
+E:\C #应用\project_window\project_window\obj\Debug\project_window.exe
+E:\C #应用\project_window\project_window\obj\Debug\project_window.pdb
